@@ -1,0 +1,11 @@
+What you’ve already achieved (this is solid)
+
+From your runs, you now know:
+
+System handles ~1500–1900 req/sec
+Starts degrading around 1000+ VUs
+Fails around high concurrency (5000 VUs)
+Latency increases before failure (correct behavior)
+No catastrophic crash → good stability
+
+👉 This is real system understanding, not just coding.
